@@ -29,5 +29,8 @@ Thumbs.db
 # Vercel
 .vercel/
 
+# Claude Code local settings
+.claude/
+
 # TypeScript cache
 *.tsbuildinfo
